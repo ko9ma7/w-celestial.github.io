@@ -1,6 +1,6 @@
 # w-celestial.github.io
 
-셀레스티얼 핼맹 운영 공지 v0.0.3
+셀레스티얼 핼맹 운영 공지 v0.0.4
 =============
 
 리니지W 그랑카인05
@@ -18,8 +18,8 @@
 - 님
 
 4. 임원은 누적 공헌도 순으로 (혈맹원 화면에서 확인 가능)
-- 공헌도 올리는 방법
-- https://lineagew.plaync.com/kr/guidebook/view?title=%ED%98%88%EB%A7%B9%20%EC%BD%98%ED%85%90%EC%B8%A0#paragraph-2
+- [공헌도 올리는 방법](https://lineagew.plaync.com/kr/guidebook/view?title=%ED%98%88%EB%A7%B9%20%EC%BD%98%ED%85%90%EC%B8%A0#paragraph-2)
+- 공헌도는 기부 등 혈맹 활동을 하거나, 몬스터 사냥을 통해 획득한 경험치에 비례하여 지급됩니다.
 
 5. 퍼플 설치 필수
 
