@@ -37,7 +37,11 @@
 - 접어요ㅠ > 아쉽게도 접으실 분은... 글 써주세요.
 
 
-### 말하는 섬 보스
+[아이템 사전](https://lineagew.plaync.com/kr/info/item/)
+=============
+
+# 말하는 섬 보스
+
 ## 희귀
 - 북섬 lv7
 * ![screenshot_20211109_212955](https://user-images.githubusercontent.com/7650492/140925362-3a92a621-515c-4f0d-8e8a-9c9b401df51c.jpg)
