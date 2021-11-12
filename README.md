@@ -1,6 +1,6 @@
 # w-celestial.github.io
 
-셀레스티얼 핼맹 운영 공지 v0.0.6
+셀레스티얼 핼맹 운영 공지 v0.0.7
 =============
 
 리니지W 그랑카인05
@@ -30,9 +30,13 @@
 - [공헌도 올리는 방법](https://lineagew.plaync.com/kr/guidebook/view?title=%ED%98%88%EB%A7%B9%20%EC%BD%98%ED%85%90%EC%B8%A0#paragraph-2)
 - 공헌도는 기부 등 혈맹 활동을 하거나, 몬스터 사냥을 통해 획득한 경험치에 비례하여 지급됩니다.
 
-5. 혈맹 휘장 장착하세요
+### TIPs
+
+1. 혈맹 휘장 장착하세요
 - 켄트성 마을 - 혈맹 상인 판매
 - 휘장 올리려면 기부 등 필요
+
+2. [레벨별 추천 사냥터](https://lineagew.plaync.com/kr/guidebook/view?title=%EB%A0%88%EB%B2%A8%EB%B3%84%20%EC%B6%94%EC%B2%9C%20%EC%82%AC%EB%83%A5%ED%84%B0)
 
 ### 퍼플 채널 설명
 - 공지 > 임원만 글쓰기~
